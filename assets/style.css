@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(120, 155, 230);
+}
+
+.green {
+    color: rgb(233, 231, 105);
+}
+
+#big {
+    font-size: 24px;
+}
+
+.hide {
+    display: none;
+    
+}
